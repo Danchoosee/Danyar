@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <h1 style="background-color:powderblue;">Өзім туралы</h1>
+<p style="background-color:tomato;">Мен 1 тамыз 2006  жылы БҚО,Орал қаласы,Бөкей Ордасы ауданы,Мұратсай ауылында дүниеге келдім.Қазіргі таңда Алматы қаласында Абай ұлттық педагогикалық университеттің философия мамандығында 1 курс студенті болып оқимын..</p>
+    <meta charset="UTF-8">
+        <title>Rysbayev Daniyar</title>
+    <style>
+        body {
+            background-color:orange;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>Аты Рысбаев Данияр</p>
+    <p>Phylosophi</p>
+    <a href="https://daniarrysbaev68.wixsite.com/daniyar">Электрондық партфолия</a>
+    <h1>Rysbayev Daniyar</h1>
+    <img src="daniyarrysbayev.jpeg" alt="Rysbaev Daniar">
+    
+</body>
+</html>
